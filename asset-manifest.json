@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/pin4eva/expense-app/static/css/main.acedefec.css",
-    "main.js": "/pin4eva/expense-app/static/js/main.b0c3b1d1.js",
-    "static/js/787.0a10ec7e.chunk.js": "/pin4eva/expense-app/static/js/787.0a10ec7e.chunk.js",
-    "index.html": "/pin4eva/expense-app/index.html",
-    "main.acedefec.css.map": "/pin4eva/expense-app/static/css/main.acedefec.css.map",
-    "main.b0c3b1d1.js.map": "/pin4eva/expense-app/static/js/main.b0c3b1d1.js.map",
-    "787.0a10ec7e.chunk.js.map": "/pin4eva/expense-app/static/js/787.0a10ec7e.chunk.js.map"
+    "main.css": "/static/css/main.acedefec.css",
+    "main.js": "/static/js/main.1d9475e0.js",
+    "static/js/787.0a10ec7e.chunk.js": "/static/js/787.0a10ec7e.chunk.js",
+    "index.html": "/index.html",
+    "main.acedefec.css.map": "/static/css/main.acedefec.css.map",
+    "main.1d9475e0.js.map": "/static/js/main.1d9475e0.js.map",
+    "787.0a10ec7e.chunk.js.map": "/static/js/787.0a10ec7e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.acedefec.css",
-    "static/js/main.b0c3b1d1.js"
+    "static/js/main.1d9475e0.js"
   ]
 }
